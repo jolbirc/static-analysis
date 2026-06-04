@@ -1,0 +1,4 @@
+This file contains backspace control characters.
+This line looks normal.
+This line has a backspacecharacter in it.
+Clean line here.

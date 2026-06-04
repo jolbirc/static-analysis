@@ -1,0 +1,4 @@
+This file contains raw ANSI escape sequences.
+Normal line.
+[31mThis text tries to set a red colour via raw escape.[0m
+Another clean line.

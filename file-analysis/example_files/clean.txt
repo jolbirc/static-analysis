@@ -1,0 +1,5 @@
+This is a clean example file.
+It has multiple lines of normal text.
+No hidden characters, no trailing whitespace.
+No unusual control sequences either.
+Should pass all checks cleanly.
